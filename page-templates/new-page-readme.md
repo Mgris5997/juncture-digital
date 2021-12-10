@@ -30,7 +30,7 @@ Girl with a Pearl Earring (Dutch: Meisje met de parel) is an oil painting by Dut
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://i5.walmartimages.com/asr/d568623f-035c-4fe8-8243-36afd7eb1737.c0286635128cd5bcd3d35a625eb6baab.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff">
 
 ## Map
 
